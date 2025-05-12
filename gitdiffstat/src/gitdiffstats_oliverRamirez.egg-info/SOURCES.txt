@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/gitdiffstats/__init__.py
+src/gitdiffstats/diffstats.py
+src/gitdiffstats_oliverRamirez.egg-info/PKG-INFO
+src/gitdiffstats_oliverRamirez.egg-info/SOURCES.txt
+src/gitdiffstats_oliverRamirez.egg-info/dependency_links.txt
+src/gitdiffstats_oliverRamirez.egg-info/top_level.txt
+test/testAddDeleteModifyFile.py
+test/testEmptyDiff.py
+test/testMultipleFiles.py
+test/testTrailingSpaces.py
+test/testWithTabCharacters.py
